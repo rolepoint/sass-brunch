@@ -26,8 +26,8 @@
     "micro-promisify": "~0.1.1",
     "node-sass": "~4.5.3",
     "node-sass-globbing": "0.0.23",
-    "postcss": "~6.0.8",
-    "postcss-modules": "~0.8.0",
+    "postcss": "~8.5.1",
+    "postcss-modules": "~6.0.1",
     "progeny": "~0.11.0"
   },
   "devDependencies": {
